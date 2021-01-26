@@ -1,6 +1,6 @@
 name: esc_pos_usb_plugin
 description: A new Flutter for USB PRINTERS.
-version: 0.0.1
+version: 0.0.1+1
 author: Dmytro Bondarchuk <dimoll.dev@gmail.com>
 homepage:
 

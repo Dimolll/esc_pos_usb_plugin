@@ -13,7 +13,7 @@ Add this to your package's pubspec.yaml file:
 dependencies:
   escposprinter:
     git:
-        url: https://github.com/marcusfelix/esc-pos-printer-flutter.git
+        url: https://github.com/Dimolll/esc_pos_usb_plugin.git
         ref: master
 ````
 
@@ -31,5 +31,5 @@ Alternatively, your editor might support flutter packages get. Check the docs fo
 Now in your Dart code, you can use:
 
 ```` dart
-import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
+import 'package:esc_pos_usb_plugin/esc_pos_usb_plugin.dart';
 ````
